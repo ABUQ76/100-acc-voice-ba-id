@@ -106,12 +106,12 @@ const jano100 = new Discord.Client();
 
 ///////////////////
 jano.on("ready", () => {
-    var join = jano.channels.get(""); /// id voice
+    var join = jano.channels.get("904003250280357901"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano2.on("ready", () => {
-    var join = jano2.channels.get(""); /// id voice
+    var join = jano2.channels.get("904003250280357901"); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -2510,7 +2510,7 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+jano.login("OTA0MTI4MTg3OTE3ODAzNjIw.YX3A_Q.qsgXdwm9u_URhqOwtmQP5AAMaT4");
 jano2.login("");
 jano3.login("");
 jano4.login("");
